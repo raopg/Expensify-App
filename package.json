@@ -32,7 +32,7 @@
     "redux": "^4.0.4",
     "sass-loader": "6.0.6",
     "sshpk": "^1.16.1",
-    "stringstream": "0.0.6",
+    "stringstream": "1.0.0",
     "style-loader": "0.18.2",
     "uuid": "^3.3.3",
     "validator": "8.0.0",
